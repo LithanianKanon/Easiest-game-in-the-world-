@@ -1,0 +1,66 @@
+canvas {
+ border: solid black; 
+}
+
+
+body {
+ background-color: blue; 
+}
+
+
+.heading {
+ font-size: 23px;
+ width: 100%;
+ text-align: center;   
+ margin: 0px;
+}
+
+body h4 {
+  font-size: 39px;
+  color: white;
+}
+
+
+.copy_right_footer {
+
+font-size: 23px;
+position: fixed;
+bottom: 0;
+color: white;
+background-color: black;
+text-align: center;
+width: 100%;
+line-height: 2;
+}
+
+#RightButton {
+  height: 50px;
+  width: 250px;
+}
+
+#WrongButton {
+  height: 50px;
+  width: 250px;
+}
+
+#WrongButton2 {
+  height: 50px;
+  width: 250px;
+}
+
+#back1 {
+  float: right;
+}
+
+#back2 {
+  float: right;
+}
+
+#back3 {
+  float: right;
+}
+
+#lel, #lel2, #lel3 {
+  font-size: 23px;
+  color: white;
+}
